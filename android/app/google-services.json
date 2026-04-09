@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451622088725",
+    "project_id": "labas-customer-app",
+    "storage_bucket": "labas-customer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451622088725:android:65413025a3e0a943f41e1c",
+        "android_client_info": {
+          "package_name": "com.brightqtr.labas.Labas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451622088725-jdeb8qn2e6qfgqbbpe2rij8rnpbq95lc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brightqtr.labas.Labas",
+            "certificate_hash": "c109c4bf302cba038e9208cfefec8b24dc7fca13"
+          }
+        },
+        {
+          "client_id": "451622088725-8v7ffg8nuibm4piu4t62stohnjjn2us5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPydPDszuzByQYrZbP-F90E_Fu2GRIxnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451622088725-8v7ffg8nuibm4piu4t62stohnjjn2us5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
